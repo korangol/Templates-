@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "mjlstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "Passw0rd!"
     },
     "adminPassword": {
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "mjl8510236"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
